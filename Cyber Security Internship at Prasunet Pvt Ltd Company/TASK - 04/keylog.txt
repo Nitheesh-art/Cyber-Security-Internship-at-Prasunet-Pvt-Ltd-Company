@@ -1,0 +1,3 @@
+google colab
+ Key.caps_lock  Key.backspace t Key.down  Key.backspace  Key.backspace  Key.backspace  Key.backspace  Key.backspace None
+ Key.caps_lock 

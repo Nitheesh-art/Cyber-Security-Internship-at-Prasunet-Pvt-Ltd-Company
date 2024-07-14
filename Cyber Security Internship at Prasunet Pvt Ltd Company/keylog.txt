@@ -1,0 +1,2 @@
+ Key.caps_lock h Key.right  password instgaram
+ Key.caps_lock  Key.esc 
